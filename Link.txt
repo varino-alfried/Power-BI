@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
+https://www.kaggle.com/HRAnalyticRepository/absenteeism-dataset
